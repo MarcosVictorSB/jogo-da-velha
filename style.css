@@ -1,0 +1,52 @@
+body {
+  text-align: center;
+  font-family: 'Itim';
+}
+
+.container {
+  display: flex;
+  position: absolute;
+  margin-left: 100px;
+}
+
+.info {
+  position: absolute;
+  display: flex;
+  top: 20;
+  left: 800px;
+  flex-direction: column;
+}
+
+.quadrado {
+  text-align: center;
+  width: 50px;
+  background: #eee;
+  padding: 40px;
+  font-size: 60px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.jogador,
+.vencedor {
+  font-size: 30px;
+  margin-top: 20px;
+}
+
+button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+  width: 120px;
+  height: 50px;
+  padding: 20px;
+  font-size: 24px;
+  background: #eee;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: rgb(99, 123, 199);
+  color: white;
+  letter-spacing: 2px;
+  border-color: rgb(99, 123, 199);
+}
