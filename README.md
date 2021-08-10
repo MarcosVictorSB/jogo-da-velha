@@ -1,4 +1,4 @@
-# jogo da velha
+# Jogo da velha: https://marcosvictorsb.github.io/jogo-da-velha/
 Este é o tradicional jogo da velha. O jogo foi construido usando HTML, CSS e Javascript.
 Algums informações são exibidas na tela, como:
   * O jogador que vai iniciar, neste jogo sempre quem inicia é o Jogador X.
